@@ -59,13 +59,13 @@ weight: 1
 
 </br>
 
-<div style="background-color: #F08377; color: black ; padding: 10px; border: 1px solid black;">
+<div style="background-color: #b52c33; color: black ; padding: 10px; border: 1px solid black;">
 #F08377 - red button
 </div>
 
 </br>
 
-<div style="background-color: #D66C60; color: black ; padding: 10px; border: 1px solid black;">
+<div style="background-color: #9b2026; color: black ; padding: 10px; border: 1px solid black;">
 #D66C60 - red button hover
 </div>
 
